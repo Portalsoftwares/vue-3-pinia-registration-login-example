@@ -1,5 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+html{
+    background-color: chocolate;
+}
+
+
 .app-container {
     min-height: 350px;
+    background-color: chocolate;
 }
 
 .btn-delete-user {
